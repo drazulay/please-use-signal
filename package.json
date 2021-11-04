@@ -1,0 +1,14 @@
+{
+  "name": "please-use-signal",
+  "version": "1.0.0",
+  "description": "Uses pedroslopez/whatsapp-web.js to autoreply to WhatsApp messages that they will have to use signal if they want to chat.",
+  "main": "index.js",
+  "repository": "git@github.com:drazulay/please-use-signal.git",
+  "author": "Daniel Azulay <daniel@danielazulay.eu>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.15.1"
+  }
+}
